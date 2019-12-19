@@ -1,0 +1,1 @@
+enum MyEnum{ My1=7, My2, My3 };

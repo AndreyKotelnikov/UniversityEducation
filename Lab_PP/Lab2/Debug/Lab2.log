@@ -1,0 +1,17 @@
+﻿Build started 11/4/2015 7:09:01 PM.
+     1>Project "D:\Политех\Visual Studio Projects\Lab_PP\Lab2\Lab2.vcxproj" on node 3 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 13.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Lab2.cpp
+         Lab2.cpp
+     1>d:\политех\visual studio projects\lab_pp\lab2\lab2.cpp(107): warning C4309: 'initializing' : truncation of constant value
+     1>d:\политех\visual studio projects\lab_pp\lab2\lab2.cpp(145): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>d:\политех\visual studio projects\lab_pp\lab2\lab2.cpp(146): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>d:\политех\visual studio projects\lab_pp\lab2\lab2.cpp(244): warning C4101: 'x' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 13.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Политех\Visual Studio Projects\Lab_PP\Debug\Lab2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Политех\Visual Studio Projects\Lab_PP\Debug\Lab2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Политех\Visual Studio Projects\Lab_PP\Debug\Lab2.lib" /MACHINE:X86 Debug\Lab2.obj
+         Lab2.vcxproj -> D:\Политех\Visual Studio Projects\Lab_PP\Debug\Lab2.exe
+     1>Done Building Project "D:\Политех\Visual Studio Projects\Lab_PP\Lab2\Lab2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.50
